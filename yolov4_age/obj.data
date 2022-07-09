@@ -1,0 +1,4 @@
+classes = 5
+train = data/train.txt
+names = data/obj.names
+backup = /mydrive/yolov4_age/training
